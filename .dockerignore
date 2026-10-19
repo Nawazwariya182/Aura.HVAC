@@ -1,0 +1,15 @@
+.git
+.gitignore
+.venv
+node_modules
+frontend/node_modules
+frontend/.next
+frontend/out
+*.pyc
+__pycache__
+.DS_Store
+Thumbs.db
+*.log
+graphify-out
+.agent
+.agents

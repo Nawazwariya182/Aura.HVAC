@@ -1,0 +1,55 @@
+PolyForm Noncommercial License 1.0.0
+
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
+
+Copyright (c) 2026 The Authors and Contributors of Aura Smart Home Cyber-Physical System
+
+## 1. Acceptance
+In order to receive this license, you must agree to its rules. The rules of this
+license are both terms of your agreement with the licensor and conditions to your
+license. You are not licensed to exercise any right under this license unless you
+agree to its terms and abide by its conditions. If you do not agree to all terms of
+this license, do not download, install, use, copy, or distribute this software.
+
+## 2. Noncommercial Purpose
+You may run, copy, modify, and share this software for noncommercial purposes only.
+Noncommercial purposes include:
+- Personal use for your own private, individual, non-monetized purposes
+- Educational and academic study, research, and classroom teaching
+- Non-profit scientific experimentation and non-monetized open-source collaboration
+
+## 3. Commercial Prohibition
+You MUST NOT use this software for any commercial purpose. A "commercial purpose"
+is any purpose intended for or directed toward commercial advantage or monetary
+compensation.
+
+Prohibited commercial purposes include, without limitation:
+- Any use by, on behalf of, or within a commercial brand, corporation, LLC,
+  partnership, enterprise, or business entity.
+- Incorporating this software, its algorithms, or its user interface into a product,
+  device, software-as-a-service (SaaS), cloud service, or hardware appliance that is
+  sold, licensed, leased, or monetized in any way.
+- Providing commercial HVAC consulting, smart-building management services, or
+  automation contracting using this software.
+- Charging fees for access to, hosting of, or support for this software.
+
+## 4. Dual Licensing / Commercial Permissions
+If you are a commercial brand, company, or enterprise seeking to utilize this software,
+its thermodynamic simulation algorithms, or its fuzzy logic architecture for commercial
+purposes, you must obtain a separate written commercial license from the copyright holder.
+
+## 5. Notices
+You must ensure that everyone who gets a copy of any part of this software from you
+also receives a copy of this license and the accompanying OWNERSHIP_AND_USAGE.md file.
+
+## 6. Modifications
+You may modify this software and share your modifications, provided that:
+- Your modified software remains governed by this PolyForm Noncommercial License 1.0.0.
+- You must not remove or obscure any copyright notices, authorship credits, or
+  ownership declarations.
+
+## 7. No Warranty
+As far as the law allows, this software comes as is, without any warranty or
+condition, and no contributor will be liable to anyone for any damages, nor for any
+claim, whether in contract, tort, or otherwise, arising from, out of, or in connection
+with this software or your use of it.
