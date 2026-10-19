@@ -6,7 +6,7 @@
 
 ## 1. Copyright & Ownership Statement
 
-The **Aura Smart Home Cyber-Physical Thermodynamic HVAC & Fuzzy Logic Control System** (including all source code, thermodynamic differential physics formulations, fuzzy inference rule bases, 2.5D visual floor plans, and documentation) is the proprietary intellectual property of the author:
+The **Aura Smart Home Cyber-Physical Thermodynamic HVAC & Fuzzy Logic Control System** (including all source code, thermodynamic differential physics formulations, fuzzy inference rule bases, 2.5D visual floor plans, and documentation) is the proprietary intellectual property of the author: Mohd Shahnawaz Ibrahim Wariya
 
 * **Copyright**: © 2026 The Authors and Contributors of the Aura Project.
 * **All Rights Reserved** under the terms of the **[PolyForm Noncommercial License 1.0.0](LICENSE)**.
@@ -71,10 +71,10 @@ If you use this project in academic research, thesis projects, or educational ar
 
 ```bibtex
 @software{aura_smart_home_fuzzy_hvac_2026,
-  author = {Aura Cyber-Physical Engineering Team},
+  author = {Mohd Shahnawaz Ibrahim Wariya},
   title = {Aura: Cyber-Physical Thermodynamic Digital Twin & Multi-Objective Fuzzy HVAC Controller},
   year = {2026},
-  url = {https://github.com/your-username/smart-home-fuzzy-hvac},
+  url = {https://github.com/Nawazwariya182/Aura.HVAC},
   license = {PolyForm-Noncommercial-1.0.0}
 }
 ```
